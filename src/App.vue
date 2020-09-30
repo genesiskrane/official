@@ -1,5 +1,5 @@
 <template>
   <div id="nav">
-    House
+    Hard To Install
   </div>
 </template>
