@@ -5,7 +5,7 @@ const path = require("path");
 const app = express();
 app.use(cors());
 app.use(morgan("dev"));
-app.use(
+app.use('/',
   express.static(
     path.join(path.dirname(require.main.filename), "client", "dist")
   )
