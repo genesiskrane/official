@@ -6,11 +6,17 @@ const app = express();
 app.use(cors());
 app.use(morgan("dev"));
 app.use(
+  "/",
   express.static(
-    path.join(path.dirname(require.main.filename), "client", "dist")
+    path.join(
+      path.dirname(require.main.filename),
+      "client",
+      "dist",
+      "index.html"
+    )
   )
 );
-app.use(
+app.get(
   "*",
   express.static(
     path.join(path.dirname(require.main.filename), "client", "dist")
