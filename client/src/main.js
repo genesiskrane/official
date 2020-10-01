@@ -5,9 +5,11 @@ import VueRouter from 'vue-router';
 
 
 
+
 import Home from './views/Home.vue';
 import About from './views/About.vue';
 import Contact from './views/Contact.vue';
+import OptOut from './views/OptOut.vue'
 import NotFound from './views/NotFound.vue';
 
 Vue.use(VueRouter);
@@ -26,6 +28,9 @@ const router = new VueRouter({
     },
     {
       path: '/contact',component: Contact 
+    },
+    {
+      path:'/opt-out-newsletter', component: OptOut
     },
     {
       path: '*',component: NotFound 

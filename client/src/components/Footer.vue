@@ -23,7 +23,7 @@
       <v-divider></v-divider>
 
       <v-card-text class="">
-        {{ new Date().getFullYear() }} — <strong>Photography Vuetify Project</strong>
+        {{ new Date().getFullYear() }} — <strong>Genesis Krane Inc</strong>
       </v-card-text>
     </v-card>
   </v-container>

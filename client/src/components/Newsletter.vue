@@ -13,12 +13,12 @@
       <v-container>
         <v-row>
           <v-col cols="10">
-          <v-text-field
-      v-model="email"
-      :rules="emailRules"
-      label="E-mail"
-      required
-    ></v-text-field>
+            <v-text-field
+              v-model="email"
+              :rules="emailRules"
+              label="E-mail"
+              required
+            ></v-text-field>
           </v-col>
           <v-col cols="2">
             <div class="px-5">
@@ -42,7 +42,6 @@
 <script>
 export default {
   data() {
-  
     return {
       valid: true,
       emil: "",
@@ -52,11 +51,6 @@ export default {
           /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/.test(v) ||
           "E-mail must be valid",
       ],
-     
-      
-      
-      
-  
     };
   },
 
