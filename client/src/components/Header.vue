@@ -14,14 +14,14 @@
       <v-toolbar-items class="hidden-xs-only">
         
         <v-btn text href="#home">
-          Home
+          Segun
         </v-btn>
 
         <v-btn text href="#about">
           About
         </v-btn>
         <v-btn text href="#services">
-          Services
+          Emmmanuel
         </v-btn>
 
         <v-btn text href="#contact">
