@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dev-link": "https://genesis-krane.ey.r.appspot.com/",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
@@ -19,7 +20,9 @@
   },
   "homepage": "https://github.com/genesiskrane/official#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
