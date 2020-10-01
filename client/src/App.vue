@@ -5,7 +5,7 @@
     </v-app-bar>
 
     <v-main>
-   <router-view></router-view>
+   <Hero />
       
     </v-main>
     <v-footer padless>
@@ -15,6 +15,7 @@
 </template>
 
 <script>
+import Hero from './components/Hero';
 import Header from "./components/Header";
 import Footer from './components/Footer'
 
@@ -23,6 +24,7 @@ export default {
 
   components: {
     Header,
+    Hero,
    
     Footer
   },
