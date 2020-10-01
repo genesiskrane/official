@@ -5,8 +5,11 @@
     </v-app-bar>
 
     <v-main>
-   <Hero />
-      
+      <Hero />
+      <About />
+      <Services />
+      <Newsletter />
+      <Contact />
     </v-main>
     <v-footer padless>
       <Footer />
@@ -15,9 +18,14 @@
 </template>
 
 <script>
-import Hero from './components/Hero';
 import Header from "./components/Header";
-import Footer from './components/Footer'
+import Footer from "./components/Footer";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Newsletter from "./components/Newsletter";
+
+import Services from "./components/Services";
+import Contact from "./components/Contact";
 
 export default {
   name: "App",
@@ -25,8 +33,11 @@ export default {
   components: {
     Header,
     Hero,
-   
-    Footer
+    About,
+    Newsletter,
+    Services,
+    Contact,
+    Footer,
   },
 
   data: () => ({
