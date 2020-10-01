@@ -12,16 +12,20 @@
       <v-spacer></v-spacer>
 
       <v-toolbar-items class="hidden-xs-only">
-        <v-btn text>
-          <router-link to="/">Home</router-link>
+        
+        <v-btn text href="#home">
+          Home
         </v-btn>
 
-        <v-btn text>
-          <router-link to="/about">About</router-link>
+        <v-btn text href="#about">
+          About
+        </v-btn>
+        <v-btn text href="#services">
+          Services
         </v-btn>
 
-        <v-btn text>
-          <router-link to="/contact">Contact</router-link>
+        <v-btn text href="#contact">
+          Contact
         </v-btn>
       </v-toolbar-items>
       <div class="hidden-sm-and-up">

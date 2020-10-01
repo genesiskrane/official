@@ -1,5 +1,5 @@
 <template>
-  <div class="heroBlock">
+  <div class="heroBlock" id="home">
     <v-carousel hide-delimiters cycle>
       <v-carousel-item
         v-for="(item, i) in items"
