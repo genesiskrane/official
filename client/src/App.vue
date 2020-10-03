@@ -1,47 +1,19 @@
 <template>
   <v-app>
-    <v-app-bar app color="white">
-      <Header />
+    <v-app-bar app dense flat>
+      <v-img
+        lazy-src="./assets/logo.png"
+        max-height="150"
+        max-width="250"
+        src="./assets/logo.png"
+      ></v-img>
     </v-app-bar>
-
     <v-main>
-      <Hero />
-      <About />
-      <Services />
-      <Newsletter />
-      <Contact />
+      <v-container fluid>
+        Hello World
+      </v-container>
     </v-main>
-    <v-footer padless>
-      <Footer />
-    </v-footer>
+    <v-footer app></v-footer>
+    <v-bottom-navigation app></v-bottom-navigation>
   </v-app>
 </template>
-
-<script>
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Newsletter from "./components/Newsletter";
-
-import Services from "./components/Services";
-import Contact from "./components/Contact";
-
-export default {
-  name: "App",
-
-  components: {
-    Header,
-    Hero,
-    About,
-    Newsletter,
-    Services,
-    Contact,
-    Footer,
-  },
-
-  data: () => ({
-    //
-  }),
-};
-</script>
