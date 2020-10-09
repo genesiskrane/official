@@ -1,11 +1,11 @@
 <template>
-  <Header></Header>
+  <App></App>
 </template>
 
 <script>
-import Header from "./components/Header";
+import App from "./components/App";
 export default {
-  components: {Header},
+  components: {App},
 };
 </script>
 
