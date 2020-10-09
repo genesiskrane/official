@@ -6094,7 +6094,7 @@ td {
 .shop-content-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard,
 .shop-content-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
 .shop-content-checkout #payment div.payment_box .wc-credit-card-form-card-number.mastercard {
-    background-image: url()
+    background-image: url(#)
 }
 
 .shop-content-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.laser,
