@@ -553,7 +553,7 @@
     right: 0;
     left: 0;
     bottom: 0;
-    background: url(../images/ajax-loader.gif) center no-repeat rgba(255, 255, 255, .65)
+    background: url(../images/loader.gif) center no-repeat rgba(255, 255, 255, .65)
 }
 
 .esg-loader {
@@ -817,7 +817,7 @@
 @font-face {
     font-family: eg-font;
     src: url(../fonts/egfontdde9.eot);
-    src: url(../font/egfontdde9.eot?85610117#iefix) format('embedded-opentype'), url(../font/egfontdde9.woff?85610117) format('woff'), url(../font/egfontdde9.ttf?85610117) format('truetype'), url(../font/egfontdde9.svg?85610117#egfont) format('svg');
+    src: url(../fonts/egfontdde9.eot) format('embedded-opentype'), url(../fonts/egfontdde9.woff) format('woff'), url(../fonts/egfontdde9.ttf) format('truetype'), url(../fonts/egfontdde9.svg) format('svg');
     font-weight: 400;
     font-style: normal
 }
