@@ -2546,7 +2546,7 @@ footer.footer2 {
 .img-sep {
     padding: 15px 0
 }
-
+/* 
 .testimonials-carousel .slick-prev {
     color: #1674d1;
     font-size: 0;
@@ -2559,8 +2559,8 @@ footer.footer2 {
     left: -60px;
     right: 0;
     width: 45px
-}
-
+} */
+/* 
 .testimonials-carousel .slick-next {
     color: #1674d1;
     font-size: 0;
@@ -2573,8 +2573,8 @@ footer.footer2 {
     left: 60px;
     right: 0;
     width: 45px
-}
-
+} */
+/* 
 .testimonials-carousel .slick-prev:after {
     content: "\e687";
     font-size: 50px;
@@ -2584,8 +2584,8 @@ footer.footer2 {
     font-variant: normal;
     text-transform: none;
     line-height: 1
-}
-
+} */
+/* 
 .testimonials-carousel .slick-next:after {
     content: "\e685";
     font-size: 50px;
@@ -2595,7 +2595,7 @@ footer.footer2 {
     font-variant: normal;
     text-transform: none;
     line-height: 1
-}
+} */
 
 .testimonials-carousel {
     padding-bottom: 80px

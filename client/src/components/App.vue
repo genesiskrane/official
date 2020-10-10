@@ -30,7 +30,9 @@
         <div class="container container-full">
           <div class="row">
             <div class="col-md-2 col-xs-10 logo logo-2">
-              <a href="index.html"><img src="../assets/../assets/images/logo.png" alt=""/></a>
+              <a href="index.html"
+                ><img src="assets/assets/images/logo.png" alt=""
+              /></a>
             </div>
             <div class="col-xs-2 hidden-md hidden-lg">
               <i id="open-left" class="fa fa-navicon"></i>
@@ -116,14 +118,14 @@
                 data-easein="default,default,default,default,default,default"
                 data-easeout="default,default,default,default,default,default"
                 data-masterspeed="default,default,default,default,default,default"
-                data-thumb="../assets/images/slider/home-onepage.jpg"
+                data-thumb="assets/images/slider/home-onepage.jpg"
                 data-rotate="0,0,0,0,0,0"
                 data-saveperformance="off"
                 data-title="Slide"
                 data-description=""
               >
                 <img
-                  src="../assets/images/slider/dummy.png"
+                  src="assets/images/slider/dummy.png"
                   alt=""
                   width="1920"
                   height="899"
@@ -252,18 +254,18 @@
                 data-easein="default,default,default,default"
                 data-easeout="default,default,default,default"
                 data-masterspeed="default,default,default,default"
-                data-thumb="../assets/images/slider/slide02-011.jpg"
+                data-thumb="assets/images/slider/slide02-011.jpg"
                 data-rotate="0,0,0,0"
                 data-saveperformance="off"
                 data-title="Slide"
                 data-description=""
               >
                 <img
-                  src="../assets/images/slider/dummy.png"
+                  src="assets/images/slider/dummy.png"
                   alt=""
                   width="1920"
                   height="900"
-                  data-lazyload="../assets/images/slider/slide02-011.jpg"
+                  data-lazyload="assets/images/slider/slide02-011.jpg"
                   data-bgposition="center center"
                   data-bgfit="cover"
                   data-bgrepeat="no-repeat"
@@ -476,13 +478,13 @@
                   style="z-index: 12;"
                 >
                   <img
-                    src="../assets/images/slider/dummy.png"
+                    src="assets/images/slider/dummy.png"
                     alt=""
                     width="130"
                     height="124"
                     data-ww="['130px','99px','90px','62px']"
                     data-hh="['124px','95px','87px','60px']"
-                    data-lazyload="../assets/images/slider/Logo.fw_.png"
+                    data-lazyload="assets/images/slider/Logo.fw_.png"
                     data-no-retina=""
                   />
                 </div>
@@ -495,7 +497,7 @@
                 data-easein="default,default,default"
                 data-easeout="default,default,default"
                 data-masterspeed="default,default,default"
-                data-thumb="../assets/images/slider/slide02-021.jpg"
+                data-thumb="assets/images/slider/slide02-021.jpg"
                 data-delay="12000"
                 data-rotate="0,0,0"
                 data-saveperformance="off"
@@ -503,11 +505,11 @@
                 data-description=""
               >
                 <img
-                  src="../assets/images/slider/dummy.png"
+                  src="assets/images/slider/dummy.png"
                   alt=""
                   width="1920"
                   height="900"
-                  data-lazyload="../assets/images/slider/slide02-021.jpg"
+                  data-lazyload="assets/images/slider/slide02-021.jpg"
                   data-bgposition="center center"
                   data-bgfit="cover"
                   data-bgrepeat="no-repeat"
@@ -702,12 +704,16 @@
           </div>
           <div class="row">
             <div class="col-sm-4 text-center">
-              <img src="../assets/images/service-01.jpg" class="img-responsive" alt="" />
+              <img
+                src="assets/images/service-01.jpg"
+                class="img-responsive"
+                alt=""
+              />
               <div class="space-top-20 space-bottom-20">
                 <img
                   width="1"
                   height="60"
-                  src="../assets/images/service-line.png"
+                  src="assets/images/service-line.png"
                   class="center-block"
                   alt=""
                 />
@@ -721,12 +727,16 @@
               <a class="bttn" href="">DETAILS</a>
             </div>
             <div class="col-sm-4 text-center">
-              <img src="../assets/images/service-02.jpg" class="img-responsive" alt="" />
+              <img
+                src="assets/images/service-02.jpg"
+                class="img-responsive"
+                alt=""
+              />
               <div class="space-top-20 space-bottom-20">
                 <img
                   width="1"
                   height="60"
-                  src="../assets/images/service-line.png"
+                  src="assets/images/service-line.png"
                   class="center-block"
                   alt=""
                 />
@@ -739,12 +749,16 @@
               <a class="bttn" href="">DETAILS</a>
             </div>
             <div class="col-sm-4 text-center">
-              <img src="../assets/images/service-03.jpg" class="img-responsive" alt="" />
+              <img
+                src="assets/images/service-03.jpg"
+                class="img-responsive"
+                alt=""
+              />
               <div class="space-top-20 space-bottom-20">
                 <img
                   width="1"
                   height="60"
-                  src="../assets/images/service-line.png"
+                  src="assets/images/service-line.png"
                   class="center-block"
                   alt=""
                 />
@@ -767,49 +781,49 @@
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/1.png"
+                src="assets/images/quotes/1/1.png"
                 alt=""
               />
             </div>
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/2.png"
+                src="assets/images/quotes/1/2.png"
                 alt=""
               />
             </div>
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/3.png"
+                src="assets/images/quotes/1/3.png"
                 alt=""
               />
             </div>
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/4.png"
+                src="assets/images/quotes/1/4.png"
                 alt=""
               />
             </div>
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/5.png"
+                src="assets/images/quotes/1/5.png"
                 alt=""
               />
             </div>
             <div>
               <img
                 class="img-responsive center-block"
-                src="../assets/images/quotes/1/3.png"
+                src="assets/images/quotes/1/3.png"
                 alt=""
               />
             </div>
           </div>
           <div class="text-center img-sep">
             <img
-              src="../assets/images/line.jpg"
+              src="assets/images/line.jpg"
               class="center-block"
               alt="line"
               height="60"
@@ -826,7 +840,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -843,7 +857,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -860,7 +874,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -877,7 +891,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -894,7 +908,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -911,7 +925,7 @@
                   highly recommend it.
                 </p>
                 <img
-                  src="../assets/images/other/author2.png"
+                  src="assets/images/other/author2.png"
                   class="center-block"
                   alt=""
                   height="60"
@@ -973,7 +987,7 @@
             <div class="container-fluid no-padding">
                 <div class="col-md-3 col-sm-6 no-padding">
                     <div class="team-staff">
-                        <img src="../assets/images/team/portrait-garber-b.jpg" class="img-responsive" alt="">
+                        <img src="assets/images/team/portrait-garber-b.jpg" class="img-responsive" alt="">
                         <div class="team-overlay">
                             <div class="team-overlay-inner text-center">
                                 <h4>CASEY STEVEN 5 <span>Designer</span></h4>
@@ -990,7 +1004,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6 no-padding">
                     <div class="team-staff">
-                        <img src="../assets/images/team/portrait_eric_f.jpg" class="img-responsive" alt="">
+                        <img src="assets/images/team/portrait_eric_f.jpg" class="img-responsive" alt="">
                         <div class="team-overlay">
                             <div class="team-overlay-inner text-center">
                                 <h4>CASEY STEVEN 5 <span>Designer</span></h4>
@@ -1007,7 +1021,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6 no-padding">
                     <div class="team-staff">
-                        <img src="../assets/images/team/portrait-garber-b.jpg" class="img-responsive" alt="">
+                        <img src="assets/images/team/portrait-garber-b.jpg" class="img-responsive" alt="">
                         <div class="team-overlay">
                             <div class="team-overlay-inner text-center">
                                 <h4>CASEY STEVEN 5 <span>Designer</span></h4>
@@ -1045,7 +1059,7 @@
                                 <div class="recent-posts__item row">
                                     <div class="recent-posts__thumb col-md-6">
                                         <a href="blog-single-standard.html">
-                                            <img src="../assets/images/blog/grid/1.jpg" class="img-responsive" alt="">
+                                            <img src="assets/images/blog/grid/1.jpg" class="img-responsive" alt="">
                                         </a>
                                     </div>
                                     <div class="recent-posts-desc col-md-6">
@@ -1076,7 +1090,7 @@
                                 <div class="recent-posts__item row">
                                     <div class="recent-posts__thumb col-md-6 col-md-push-6">
                                         <a href="blog-single-standard.html">
-                                            <img src="../assets/images/blog/grid/2.jpg" class="img-responsive" alt="">
+                                            <img src="assets/images/blog/grid/2.jpg" class="img-responsive" alt="">
                                         </a>
                                     </div>
                                     <div class="recent-posts-desc col-md-6 col-md-pull-6">
@@ -1286,3 +1300,8 @@
     <a class="scrollup" title="Go to top"><i class="fa fa-angle-up"></i></a>
   </div>
 </template>
+
+<script>
+export default {
+}
+</script>
