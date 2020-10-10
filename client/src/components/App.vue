@@ -127,7 +127,7 @@
                   alt=""
                   width="1920"
                   height="899"
-                  data-lazyload="../assets/images/slider/home-onepage.jpg"
+                  data-lazyload="assets/images/slider/home-onepage.jpg"
                   data-bgposition="center center"
                   data-bgfit="cover"
                   data-bgrepeat="no-repeat"
